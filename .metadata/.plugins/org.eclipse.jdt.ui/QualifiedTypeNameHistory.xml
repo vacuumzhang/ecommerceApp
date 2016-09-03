@@ -1,2 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="org.mybatis.generator.api.MyBatisGenerator"/>
+<fullyQualifiedTypeName name="org.mybatis.generator.internal.DefaultShellCallback"/>
+<fullyQualifiedTypeName name="java.io.File"/>
+<fullyQualifiedTypeName name="org.mybatis.generator.config.xml.ConfigurationParser"/>
+<fullyQualifiedTypeName name="org.mybatis.generator.config.Configuration"/>
+</qualifiedTypeNameHistroy>

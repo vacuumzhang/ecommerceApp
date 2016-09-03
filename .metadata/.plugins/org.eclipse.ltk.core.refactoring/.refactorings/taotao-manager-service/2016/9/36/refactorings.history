@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Extract local variable &apos;selectByPrimaryKey&apos; from expression &apos;itemMapper.selectByPrimaryKey(itemId)&apos;&#x0A;- Original project: &apos;taotao-manager-service&apos;&#x0A;- Variable name: &apos;selectByPrimaryKey&apos;&#x0A;- Destination method: &apos;com.taotao.service.impl.ItemServiceImpl.getItemById()&apos;&#x0A;- Variable expression: &apos;itemMapper.selectByPrimaryKey(itemId)&apos;&#x0A;- Replace occurrences of expression with variable" description="Extract local variable &apos;selectByPrimaryKey&apos;" final="false" id="org.eclipse.jdt.ui.extract.temp" input="/src\/main\/java&lt;com.taotao.service.impl{ItemServiceImpl.java" name="selectByPrimaryKey" replace="true" selection="423 38" stamp="1472863618439" version="1.0"/>
+</session>
